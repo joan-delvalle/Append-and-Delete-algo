@@ -1,1 +1,1 @@
-# Append-and-Delete-algo
+# Append-and-Delete-algo The function checks if you can convert string `s` into string `t` using exactly `k` operations of appending or deleting characters. It does this by finding the common prefix and seeing if the remaining characters can be removed and added within `k` moves, considering extra operations in pairs or deleting everything if `k` is large enough.
